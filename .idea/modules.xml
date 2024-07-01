@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bai-tap-ve-nha.iml" filepath="$PROJECT_DIR$/bai-tap-ve-nha.iml" />
       <module fileurl="file://$PROJECT_DIR$/convert-counter-system/convert-counter-system.iml" filepath="$PROJECT_DIR$/convert-counter-system/convert-counter-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io-textfile-ql-sinh-vien/io-textfile-ql-sinh-vien.iml" filepath="$PROJECT_DIR$/io-textfile-ql-sinh-vien/io-textfile-ql-sinh-vien.iml" />
       <module fileurl="file://$PROJECT_DIR$/ql-nhan-vien-cty/ql-nhan-vien-cty.iml" filepath="$PROJECT_DIR$/ql-nhan-vien-cty/ql-nhan-vien-cty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ql-sinh-vien/ql-sinh-vien.iml" filepath="$PROJECT_DIR$/ql-sinh-vien/ql-sinh-vien.iml" />
     </modules>
   </component>
 </project>
