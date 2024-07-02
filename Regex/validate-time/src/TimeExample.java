@@ -15,7 +15,7 @@ public class TimeExample {
     public TimeExample() {
     }
 
-    public boolean validate(String regex) {
+    public static boolean validate(String regex) {
         Pattern pattern = Pattern.compile(TIME_REGEX);
         Matcher matcher = pattern.matcher(regex);
         return matcher.matches();

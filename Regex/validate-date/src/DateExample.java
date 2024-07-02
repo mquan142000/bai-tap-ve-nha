@@ -13,7 +13,7 @@ public class DateExample {
     public DateExample() {
     }
 
-    public boolean validate(String regex) {
+    public static boolean validate(String regex) {
         Pattern pattern = Pattern.compile(DATE_FORMAT);
         Matcher matcher = pattern.matcher(regex);
         return matcher.matches();

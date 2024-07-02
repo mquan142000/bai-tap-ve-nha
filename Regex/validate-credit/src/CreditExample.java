@@ -13,7 +13,7 @@ public class CreditExample {
     public CreditExample() {
     }
 
-    public boolean validate(String regex) {
+    public static boolean validate(String regex) {
         Pattern pattern = Pattern.compile(CREDIT_REGEX);
         Matcher matcher = pattern.matcher(regex);
         return matcher.matches();
